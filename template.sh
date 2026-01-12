@@ -15,4 +15,4 @@ touch research/trails.ipynb
 touch requirements.txt
 touch README.md
 
-echo "Project structure created successfully."
+echo "Project structure created successfully."  
